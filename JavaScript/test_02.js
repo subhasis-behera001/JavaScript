@@ -11,4 +11,4 @@ const num1=234.33332423
  Math.random()
  let min=1
  let max=6
- console.log(Math.floor(Math.random()*(max-min +1)))//for dice game random numbers.
+ console.log(Math.floor(Math.random()*(max-min +1)) + min)//for dice game random numbers.
